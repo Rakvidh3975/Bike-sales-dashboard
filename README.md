@@ -2,11 +2,11 @@
 
 ## 📌 Project Objective  
 The goal of this project is to analyze customer demographics and behavioral factors influencing **bike purchase decisions**. The dashboard helps businesses identify **key customer segments**, evaluate **sales trends**, and derive insights to improve **marketing and targeting strategies**.  
-
+----------
 
 ## 📊 Dataset Used  
 - <a https://github.com/Rakvidh3975/Bike-sales-dashboard/blob/main/Bike%20Sales%20Dashboard.xlsx">Dataset</a>  **: Excel dataset containing **1,026 customer records**.  
-
+-----------
 
 ## ❓ Business Questions / KPIs  
 - What is the relationship between **income levels** and bike purchase?  
@@ -14,6 +14,7 @@ The goal of this project is to analyze customer demographics and behavioral fact
 - Does **gender** influence the likelihood of purchasing a bike?  
 - How does **commute distance** impact bike purchase decisions?  
 - What is the distribution of purchases across different **regions**?
+-------------
 
  ## ⚙️ Process  
 1. **Data Cleaning** – Verified column names, standardized categorical values.  
@@ -23,3 +24,19 @@ The goal of this project is to analyze customer demographics and behavioral fact
    - Age bracket vs. purchase count  
    - Commute distance vs. purchase count  
 4. **Dashboard Creation** – Designed an **interactive Excel dashboard** to visualize KPIs.  
+---------------
+
+## 📸 Dashboard Preview  
+Here are some visuals from the Excel dashboard:  
+![Overall Bike Sales Dashboard](images/bike_sales_dashboard.png)  \
+----------------
+
+## 🔍 Insights  
+- **Income**: Higher income groups are more likely to purchase bikes.  
+- **Age**: Middle-aged customers (31–54) are the **largest group of bike buyers**.  
+- **Gender**: Males show a slightly higher purchase rate compared to females.  
+- **Commute**: Customers with **short commute distances (0–1 miles)** are more likely to purchase bikes.  
+- **Region**: Certain regions show higher adoption rates, indicating regional preferences.
+
+
+
