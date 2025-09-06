@@ -38,6 +38,13 @@ Here are some visuals from the Excel dashboard:
 - **Gender**: Males show a slightly higher purchase rate compared to females.  
 - **Commute**: Customers with **short commute distances (0–1 miles)** are more likely to purchase bikes.  
 - **Region**: Certain regions show higher adoption rates, indicating regional preferences.
+  --------------
+
+ ✅Final Conclusion
+
+The analysis highlights that income, age, and commute distance are the most influential factors in bike purchase decisions. Businesses can target middle-aged, higher-income individuals with short commutes to maximize bike sales.
+
+This project demonstrates how Excel can be used for data analysis, KPI tracking, and dashboarding in a business scenario.
 
 
 
