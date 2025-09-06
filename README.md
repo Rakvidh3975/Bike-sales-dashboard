@@ -29,7 +29,6 @@ The goal of this project is to analyze customer demographics and behavioral fact
 ## 📸 Dashboard Preview  
 Here are some visuals from the Excel dashboard:  
 ![Overall Bike Sales Dashboard] <img width="1106" height="615" alt="dashboard image" src="https://github.com/user-attachments/assets/e8887b9e-6917-4593-b374-9a6e41df7590" />
-
 ----------------
 
 ## 🔍 Insights  
