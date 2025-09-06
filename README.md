@@ -5,7 +5,7 @@ The goal of this project is to analyze customer demographics and behavioral fact
 ----------
 
 ## 📊 Dataset Used  
-- <a https://github.com/Rakvidh3975/Bike-sales-dashboard.git">Dataset</a>  **: Excel dataset containing **1,026 customer records**.  
+- https://github.com/Rakvidh3975/Bike-sales-dashboard.git  **: Excel dataset containing **1,026 customer records**.  
 -----------
 
 ## ❓ Business Questions / KPIs  
